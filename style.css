@@ -37,6 +37,10 @@ h1, h2, h3 {
     margin-top: 3vh;
 }
 
+h1 {
+    font-size:10vw;
+}
+
 
 
 body {
@@ -59,4 +63,5 @@ header {
 
 .page-wrapper {
         grid-column: 2/span 4;
-    }
+}
+
