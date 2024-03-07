@@ -51,8 +51,8 @@ h1, h2, h3 {
 body {
     background-color: var(--lightblue);
 
-    padding-left: 5vw;
-    padding-right: 5vw;
+    padding-left: 8vw;
+    padding-right: 8vw;
 }
 
 header h1 { 
