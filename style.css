@@ -1,9 +1,4 @@
-@font-face {
-    font-family: "Inter";
-    src: url('fonts/Inter.ttf') format('truetype'), url('../fonts/readexpro.woff2') format('tff');
-    font-weight: 0 800;
-    font-style: normal;
-}
+
 
 @font-face {
     font-family: "Raleway";
@@ -12,7 +7,10 @@
     font-style: normal;
 }
 
-
+* {
+    box-sizing: border-box;
+    font-family: Raleway;
+}
 html {
     --primary-text: #000000;
     --white: #ffffff;
@@ -58,9 +56,9 @@ body {
     padding-right: 5vw;
 }
 
-header h1 { 
+/* header h1 { 
 padding-left: 25px;  
-}
+} */
 
 
 
