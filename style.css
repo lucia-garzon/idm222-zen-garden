@@ -32,5 +32,19 @@ p {
 
 h1, h2, h3 {
     font-family: var(--font-header);
+    margin-top: 3vh;
 }
 
+
+
+body {
+    background-color: var(--lightblue);
+    /* display: grid;
+    grid-template-columns: 112px repeat(12, auto) 112px;
+    grid-column-gap: 2rem; */
+    padding: 2vh;
+}
+
+header { 
+    justify-content: center; 
+    }
