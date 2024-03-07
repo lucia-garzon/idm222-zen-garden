@@ -94,7 +94,11 @@ aside {
 a {
     color: var(--color-8);
 }
-    
+
+.design-selection li a{
+    color: #FFFFFF;
+}
+
     
     
     
