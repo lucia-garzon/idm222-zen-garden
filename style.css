@@ -35,12 +35,10 @@ h1, h2, h3 {
 }
 
 body {
-    background-color: var(--lightblue);
-    /* display: grid;
-    grid-template-columns: 112px repeat(12, auto) 112px;
-    grid-column-gap: 2rem; */
-    padding-left: 5vw;
-    padding-right: 5vw;
+    background-color: var(--lightblue);
+
+    padding-left: 5vw;
+    padding-right: 5vw;
 }
 
 header h1 { 
@@ -50,19 +48,19 @@ padding-left: 25px;
 
 
 .summary {
-    background:#5988E4;
-    border: solid 5px #5988E4;
-    border-radius: 10px;
-    padding-left: 5vw;
-    padding-right: 5vw;
+    background:#5988E4;
+    border: solid 5px #5988E4;
+    border-radius: 10px;
+    padding-left: 5vw;
+    padding-right: 5vw;
 }
 
 .benefits {
-    background:#5988E4;
-    border: solid 5px #5988E4;
-    border-radius: 10px;
-    padding-left: 5vw;
-    padding-right: 5vw;
+    background:#5988E4;
+    border: solid 5px #5988E4;
+    border-radius: 10px;
+    padding-left: 5vw;
+    padding-right: 5vw;
 }
 
 
