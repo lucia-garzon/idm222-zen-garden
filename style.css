@@ -6,22 +6,39 @@
 }
 
 @font-face {
-    font-family: "MergeOne";
-    src: url('fonts/MergeOne-Regular.woff') format('woff');
+    font-family: "Raleway";
+    src: url('fonts/Raleway.ttf') format('ttf');
     font-weight: 0 800;
     font-style: normal;
 }
+
 
 html {
     --primary-text: #000000;
     --white: #ffffff;
     --main-background: #bceffe;
     --blurb: #5988E4;
-    --font-header: MergeOne, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-    --font-primary: Inter, 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+    --font-header: Raleway, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    --font-primary: Raleway, 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
     --gray: #4E4E4E;
     --dark: #498AEB;
     --lightblue: #DAE9FF;
+
+    --color-0: #FFFFFF;  /* White */
+    --color-0-5: #E7F6FD; /* Very Light Blue */
+    --color-1: #CFEDFB; /* Light Blue */
+    --color-1-5: #B7E4F8; /* Soft Blue */
+    --color-2: #9FDBF6; /* Sky Blue */
+    --color-3: #6EC9F2; /* Bright Sky Blue */
+    --color-4: #3EB7ED; /* Cerulean */
+    --color-5: #0EA5E9; /* Blue */
+    --color-6: #0B84BA; /* Medium Blue */
+    --color-7: #08638C; /* Dark Blue */
+    --color-8: #06425D; /* Deep Blue */
+    --color-8-5: #043246; /* Darker Blue */
+    --color-9: #03212F; /* Very Dark Blue */
+    --color-9-5: #011117; /* Nearly Black */
+    --color-10: #000000;  /* Black */   
 }
 
 p, a {
@@ -63,9 +80,42 @@ padding-left: 25px;
     padding-right: 5vw;
 }
 
+.design-selection {
+    background:#5988E4;
+    border: solid 5px #5988E4;
+    border-radius: 10px;
+    padding-left: 5vw;
+    padding-right: 5vw;
+    }
 
 
-
+aside {
+    padding-top: 10vw;
+}
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
 
 
 
