@@ -55,9 +55,9 @@ body {
     padding-right: 5vw;
 }
 
-/* header h1 { 
-padding-left: 25px;  
-} */
+header h1 { 
+    font-size: 48px;
+}
 
 
 
@@ -90,7 +90,10 @@ padding-left: 25px;
 aside {
     padding-top: 10vw;
 }
-    
+
+a {
+    color: var(--color-4)
+}
     
     
     
