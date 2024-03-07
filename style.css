@@ -24,7 +24,7 @@ html {
     --lightblue: #DAE9FF;
 }
 
-p {
+p, a {
     font-family: var(--font-primary);
 
 }
