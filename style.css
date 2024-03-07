@@ -29,7 +29,7 @@ html {
 
 p {
     font-family: var(--font-primary);
-
+    font-size: 1rem;
 }
 
 h1, h2, h3 {
@@ -40,6 +40,17 @@ h1, h2, h3 {
 h1 {
     font-size:10vw;
 }
+
+h2 {
+    font-size: 8vw;
+}
+
+
+h3 {
+    font-size:6vw;
+}
+
+
 
 
 
