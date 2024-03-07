@@ -12,7 +12,9 @@
     font-weight: 0 800;
     font-style: normal;
 }
-
+* {
+    box-sizing: border-box;
+}
 html {
     --primary-text: #000000;
     --white: #ffffff;
@@ -43,8 +45,18 @@ body {
     grid-template-columns: 112px repeat(12, auto) 112px;
     grid-column-gap: 2rem; */
     padding: 2vh;
+    body {
+        display: grid;
+        grid-template-columns: 1rem repeat(4, auto) 1rem ;
+        grid-gap: 1rem;
+    
+    }
 }
 
 header { 
     justify-content: center; 
+}
+
+.page-wrapper {
+        grid-column: 2/span 4;
     }
